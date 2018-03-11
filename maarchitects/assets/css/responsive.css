@@ -1,0 +1,723 @@
+@media (min-width: 1200px) {
+     .hero_image .banner_menu .container {
+        width: 997px;
+    }
+     .pro_img_box img, .full_details_project img{
+        width: 100%;
+    }
+}
+ @media only screen and (min-width: 997px) {
+     .container-fluid {
+        padding-left: 30px;
+         padding-right: 30px;
+    }
+     .contact_wrapper .contact_subheading span {
+        display: block;
+    }
+     .single_banner .cityofproject {
+         color: #fff !important;
+         text-align: center !important;
+         font-size: 38px;
+         font-weight: 500;
+         text-shadow: 0px 4px 5px #000;
+    }
+}
+ @media only screen and (max-width: 996px) {
+     .our_team .team_box .caption_wrap h3{
+        text-transform: capitalize;
+        font-size: 18px;
+        color: #505050;
+    }
+     .our_team .team_box .caption_wrap p{
+        font-size: 16px;
+        color: #888;
+    }
+     .search_wrap {
+        display: none;
+    }
+     .filter_link {
+         color: #444;
+         text-decoration: none;
+         font-size: 18px;
+         font-weight: 500;
+    }
+     .lightcase-icon-play, .lightcase-icon-pause{
+        display:none !important;
+    }
+}
+ @media only screen and (min-width: 768px) {
+     .hideonMobile{
+        display: block;
+    }
+     .hideOnDesktop{
+        display: none;
+    }
+}
+ @media only screen and (max-width: 767px) {
+     .hero_image .banner_menu a{
+        display: inline-block;
+         margin-bottom: 10px;
+         color: #fff;
+         padding: 3px 10px;
+         width: 120px;
+         text-align: center;
+         border-radius: 10px;
+         transition: all 0.4s ease-in-out;
+         font-size: 24px;
+    }
+     .banner_menu ul li {
+        display: block;
+         margin: 20px 0;
+    }
+     .banner_menu ul {
+        padding: 0;
+    }
+     .banner_menu ul li:hover ul.sub_info {
+        display: none;
+    }
+     .site_header {
+         padding: 15px 0;
+         margin-bottom: 30px;
+    }
+     .site_header .site_logo {
+        text-align: center;
+         font-size: 36px;
+    }
+     .site_header .main_menu {
+        margin-top: 15px;
+         text-align: center;
+    }
+     .site_header .main_menu nav ul li a {
+        font-size: 21px;
+         font-weight: 500;
+    }
+     .site_header .main_menu nav ul li {
+        margin:0 7px;
+    }
+     .hero_image .banner_image {
+        background-position: left top;
+    }
+     .hero_image .banner_menu {
+        top: 52%;
+    }
+     .home_footer {
+        padding: 35px 0 15px 0;
+        bottom: 2px;
+        z-index: 999;
+    }
+     .def_title:after{
+        top: 56px;
+    }
+     .defines_us .bm:after {
+        top: 60px;
+    }
+     .our_team {
+        margin: 0px 0px;
+    }
+     .our_team .team_title {
+        margin-bottom: 20px;
+         text-align: left;
+    }
+     .our_team .team_box .caption_wrap h3{
+        text-transform: capitalize;
+        font-size: 16px;
+        color: #505050;
+    }
+     .our_team .team_box .caption_wrap p{
+        font-size: 14px;
+        color: #888;
+    }
+     .our_team .sub_teams .col-xs-4 {
+        padding: 0 5px;
+    }
+     .our_team .col-xs-6 {
+        padding: 0 5px;
+    }
+     .hideMobile {
+        display: none;
+    }
+     .borderRight {
+        border:none;
+    }
+     .backto, .shbare , .shbare a{
+        color: #bbb;
+         font-weight: 500;
+         font-size: 18px;
+         text-align: left !important;
+    }
+     .shbare a.social_icon {
+        margin: 0 3px;
+         font-size: 24px;
+         position: relative;
+         top: 2px;
+         display: inline-block;
+    }
+     .shbare .shareText{
+        margin-right:5px;
+    }
+     .short_info {
+        font-weight: 500;
+         margin: 25px 0 5px 0;
+    }
+     .single_wrap {
+        margin: 20px;
+        color: #505050;
+         box-shadow: none;
+         margin-top: -105px;
+        background: #fff;
+        padding: 20px 0;
+         position: relative;
+         z-index: 99;
+         border-radius:0px;
+    }
+     .hideonMobile{
+        display: none;
+    }
+     .hideOnDesktop{
+        display: block;
+    }
+     .single_info .thumb_img {
+        margin-top: 20px;
+    }
+     .single_info p {
+        font-weight: 500;
+    }
+     .mt40 {
+        margin-top: 40px;
+    }
+     .contact_wrapper .contact_subheading {
+        font-size: 22px;
+         font-weight: 500;
+    }
+     .form_wrapper .form-control, .btn_contact_submit {
+        border-color: #888;
+        height: 40px;
+    }
+     .form_wrapper .form-control:focus{
+        border-color: #333;
+         box-shadow: none;
+    }
+     .form_wrapper {
+        width: 100%;
+    }
+     .btn_contact_submit {
+        border-color: #888;
+    }
+     .btn_contact_submit:hover {
+        border-color: #333;
+         background: #333;
+         color: #fff;
+    }
+     .pro_inquireies {
+        font-size: 24px;
+         border-color: #333;
+    }
+     .pro_inquireies h4 {
+        font-size: 24px;
+         color: #333;
+         font-weight: 500;
+    }
+     .pro_inquireies a {
+        font-size: 24px;
+         color: #333;
+         font-weight: 500;
+    }
+     .site_footer .footer_social .line {
+        height: 2px;
+         position: absolute;
+         top: 20px;
+         z-index: -1;
+         width: 100%;
+         display: inline-block;
+         left: 0;
+         background: #555;
+    }
+     .site_footer .footer_social li {
+        margin: 0 5px;
+    }
+     .site_footer .footer_social li a {
+        font-size: 20px;
+    }
+     .site_footer .footer_social ul {
+        padding: 0 20px;
+    }
+     .form_wrapper textarea {
+         height: 120px !important;
+    }
+     .site_header .site_logo span {
+        font-weight: 900;
+         color: #505050 important;
+    }
+     .inner_header .site_logo span {
+         color: #505050 important;
+    }
+     .site_header .site_logo a {
+        font-size: 28px;
+    }
+     .site_header .site_logo i:after {
+        top:9px;
+    }
+     .site_logo img {
+         width: 283px;
+         display: inline-block;
+    }
+     .single_banner .single_banner_caption h1 {
+        text-shadow: 0px 0px 1px #000;
+    }
+     .pro_filter .pro_box {
+        height: auto;
+    }
+     .infoText p {
+        font-size: 14px;
+    }
+     .single_btn {
+        margin-bottom: 10px;
+    }
+     .next_pro_wrap {
+        margin: 0;
+    }
+     .checkMargin span {
+        font-size: 14px;
+         position: relative;
+         top: -2px;
+    }
+     .filter_wrap {
+        margin-top: 15px;
+    }
+     .filter_wrap h4 {
+         border-top: 1px solid #505050;
+         padding-top: 20px;
+         margin-bottom: 15px;
+    }
+     .pro_filter {
+        margin-top: 32px;
+    }
+     .backto, .shbare, .shbare a {
+        font-size: 14px;
+         margin-bottom: 18px;
+    }
+     .short_info {
+        font-weight: 500;
+        line-height: 31px;
+        font-size: 14px;
+        position: relative;
+        margin: 0 0 26px 0;
+        min-height: auto;
+    }
+     .shbare a.social_icon {
+        margin: 0 0px;
+         font-size: 15px;
+    }
+     .shbare .shareText {
+        padding: 0;
+    }
+     .single_wrap {
+        margin: -125px 8px 0 8px;
+         font-size: 14px;
+         padding-bottom: 0;
+    }
+     .short_info h4{
+        font-size: 14px;
+         ,margin: 0;
+         padding: 0;
+    }
+     .single_info {
+        margin-top: 5px;
+    }
+     .single_banner .single_banner_caption h1 {
+        text-shadow: none;
+         font-size: 42px;
+    }
+     .single_banner {
+        background-position: center center;
+         height: 400px;
+    }
+     #main {
+         padding: 40px 0 20px 0;
+    }
+     .inner_header {
+         position: relative !important;
+         margin-bottom: 0 !important;
+    }
+     .inner_title {
+        font-size: 24px;
+    }
+     .about_us_page {
+        padding-top:0 !important;
+    }
+     .desc_text p {
+         margin-bottom: 8px;
+         font-size: 14px;
+    }
+     .tabbablemenu .nav-tabs>li a {
+        font-size: 14px;
+    }
+     .desc_text {
+        margin-bottom: 25px;
+    }
+     .our_team .team_box .caption_wrap h3 {
+        font-size: 14px;
+    }
+     .our_team .team_box .caption_wrap p {
+        font-size: 12px;
+    }
+     .our_team .sub_teams .col-xs-4, .our_team .col-xs-6 {
+        padding: 0 12px;
+    }
+     .contact_page_wrap {
+        padding-top: 20px !important;
+    }
+     .contact_wrapper .contact_subheading span {
+        display: inline-block;
+    }
+     .form_wrapper .form_row {
+        margin-bottom: 30px;
+    }
+     .pro_inquireies {
+         margin: 0px 0;
+         padding: 26px 0 0px 0;
+         border-top: 2px solid #ccc;
+         color: #333;
+    }
+     .pro_inquireies p {
+        margin: 30px 0;
+    }
+     .checkMargin {
+        margin-left: 0;
+    }
+    .summary_block_2_col img {
+    	height: auto;
+    }
+    .pro_img_box img {
+        object-position: top center;
+        height: 300px;
+        object-fit: cover;
+        overflow: hidden;
+        max-height: 300px;
+        width: 100%;
+    }
+
+
+}
+ @media only screen and (min-width: 580px) {
+}
+ @media only screen and (max-width: 579px) {
+     .backto, .shbare, .shbare a {
+        font-size: 10px;
+         margin-bottom: 18px;
+    }
+     .short_info {
+        font-weight: 500;
+        line-height: 31px;
+        font-size: 10px;
+        position: relative;
+        margin: 0 0 26px 0;
+        min-height: auto;
+    }
+     .shbare a.social_icon {
+        margin: 0 0px;
+         font-size: 15px;
+    }
+     .shbare .shareText {
+        padding: 0;
+    }
+     .single_wrap {
+        margin-left: 8px;
+    font-size: 10px;
+    margin-top: -110px;
+    margin-bottom: 0;
+    margin-right: 8px;
+    padding-bottom: 18px;
+    }
+     .short_info h4{
+        font-size: 10px;
+         ,margin: 0;
+         padding: 0;
+    }
+     .single_info {
+        margin-top: 5px;
+    }
+     .single_banner .single_banner_caption h1 {
+        text-shadow: none;
+         font-size: 42px;
+    }
+     .single_banner {
+        background-position: center center;
+         height: 400px;
+    }
+     .site_header .main_menu nav ul li a {
+        font-size: 18px;
+    }
+     .site_header .main_menu nav ul li {
+        margin: 0 12px;
+    }
+     .site_logo img {
+        width: 248px;
+    }
+     .site_header .main_menu {
+        margin-top: 5px;
+    }
+     .proj_img_col {
+        padding-right: 0;
+    }
+     .thumbnail_col {
+        padding-left: 6px;
+    }
+     .single_info h4 {
+        font-size: 10px;
+         margin-bottom: 3px;
+         text-transform: uppercase;
+    }
+     .single_info .thumb_img {
+        margin-top: 14px;
+    }
+     .infoText {
+         margin-top: 30px !important;
+         font-size: 10px;
+         /*color: #95989a;*/
+    }
+     .infoText p {
+        font-size: inherit;
+         font-weight: normal;
+         line-height: inherit;
+    }
+     .infoImage {
+        margin-top: 30px !important;
+    }
+     .infoImage1 {
+        margin-top: 12px;
+    }
+     .infotext_col {
+        padding-right: 0;
+    }
+     .summary_block_2_col {
+        padding-left: 7px;
+    }
+     .img_box_1 {
+        margin-top: 28px;
+    }
+     .next_pro_wrap {
+        display: none;
+    }
+     .btn_wrap {
+        margin:25px 0;
+    }
+     .single_btn {
+        width: 137px;
+         padding: 8px 15px;
+         font-size: 12px;
+    }
+     .single_pro_main {
+        padding-bottom: 0 !important;
+    }
+     .btn_wrap {
+        margin: 25px 0 0 0;
+    }
+     .site_footer .footer_social li a {
+         font-size: 16px;
+         height: 30px;
+         width: 30px;
+         line-height: 30px;
+    }
+     .site_footer .footer_social li a i {
+        line-height: inherit;
+    }
+     .read_more_link{
+        font-size: 12px;
+    }
+     .site_footer .footer_social li {
+        margin: 0;
+    }
+     .site_footer .footer_social .line {
+         position: relative;
+         width: 70%;
+         background: #9a9a9a;
+    }
+     #toTop {
+        height: 35px;
+         width: 35px;
+    }
+     #toTop span.fa {
+        top: 0;
+    }
+     .site_header .site_logo span {
+        font-weight: initial;
+         letter-spacing: 1px;
+    }
+     .site_header .site_logo {
+         text-align: center;
+         font-size: 32px;
+         font-weight: 500;
+    }
+     .site_header .site_logo a {
+        font-weight: initial;
+         font-size: inherit;
+    }
+     .site_header .site_logo strong{
+        font-weight: 500;
+    }
+     .site_header .site_logo i {
+        padding-right: 20px;
+    }
+     .site_header .site_logo i:after {
+         width: 2px;
+         height: 24px;
+         background: #fff;
+         position: absolute;
+         right: 12px;
+         top: 8px;
+    }
+     .site_header .main_menu nav ul li {
+        margin: 0 6px;
+    }
+     .hero_image .banner_menu a {
+        display: inline-block;
+        color: #fff;
+        text-align: center;
+        transition: all 0.4s ease-in-out;
+        font-size: 20px;
+        padding: 0 10px;
+        margin: 0;
+        width: auto;
+    }
+     .banner_menu ul li {
+         display: block;
+         margin: 0 0 67px 0;
+    }
+     .home_footer .home_social li {
+        margin: 0 14px;
+    }
+     .home_footer .home_social li a {
+        font-size: 16px;
+    }
+     .inner_header .site_logo i:after {
+         background: #505050 !important;
+         top: 13px;
+    }
+     .inner_header .site_logo span {
+         color: #505050 !important;
+    }
+     .filter_wrap {
+        margin-top: 15px;
+    }
+     .filter_wrap h4 {
+         border-top: 1px solid #505050;
+         padding-top: 20px;
+         margin-bottom: 15px;
+    }
+     .pro_filter {
+        margin-top: 32px;
+    }
+     .pro_caption {
+        opacity: 1;
+         background: rgba(0,0,0,0.2);
+    }
+     .pro_filter .pro_box {
+         height: auto;
+         margin: 0 -15px 30px -15px;
+    }
+     .checkMargin span {
+        font-size: 12px;
+    }
+     .checkMargin {
+        margin-bottom: 5px;
+    }
+     .padd_right_0 {
+        padding-right: 5px;
+    }
+     .padd_left_0 {
+        padding-left: 5px;
+    }
+     .padd_right_0 .pro_img_box, .padd_left_0 .pro_img_box {
+        margin-bottom: 10px;
+    }
+     .desc_text p {
+         margin-bottom: 8px;
+         font-size: 10px;
+    }
+     .tabbablemenu .nav-tabs>li a {
+        font-size: 10px;
+    }
+     .our_team .team_caption {
+        opacity: 1;
+         background: initial;
+    }
+     .our_team .sub_teams .col-xs-4, .our_team .col-xs-6 {
+        padding: 0 12px;
+    }
+     .our_team .team_box {
+        margin-bottom: 18px;
+    }
+     .our_team .team_name {
+         text-shadow: none;
+         font-size: 16px;
+    }
+     .our_team .team_desig {
+         color: #fff;
+         text-shadow: none;
+         font-size: 16px;
+         margin: 5px 0;
+    }
+     .team_social {
+        display: none;
+    }
+     .our_team .sub_teams .team_box {
+         margin-bottom: 20px;
+         min-height: auto;
+    }
+     .our_team .team_box .caption_wrap h3 {
+        font-size: 12px;
+    }
+     .our_team .team_box .caption_wrap p {
+        font-size: 10px;
+    }
+     .single_banner .cityofproject {
+         color: #fff !important;
+         font-size: 26px;
+         font-weight: 500;
+         text-shadow: none;
+         margin-top:5px;
+    }
+}
+ @media only screen and (min-width: 481px) {
+}
+ @media only screen and (max-width: 480px) {
+     .our_team .sub_teams .col-xs-4, .our_team .col-xs-6 {
+        padding: 0 10px;
+    }
+     .our_team .team_box {
+        margin-bottom: 18px;
+    }
+     .our_team .sub_teams .team_box {
+         margin-bottom: 20px;
+         min-height: auto;
+    }
+    /*.site_header .main_menu nav ul li {
+        margin: 0 10px;
+    }
+    */
+     .our_team .sub_teams {
+        margin-top: 20px;
+    }
+     .pro_caption h2 {
+        font-size: 18px;
+    }
+    .pro_img_box img {
+        height: 230px;
+        max-height: 230px;
+    }
+
+}
+ @media only screen and (min-width: 381px) {
+}
+ @media only screen and (max-width: 380px) {
+     .site_logo img {
+         width: 248px;
+         display: inline-block;
+    }
+     .site_header .main_menu nav ul li {
+         margin: 0 8px;
+    }
+}
+ @media only screen and (min-width: 767px) and (max-width: 991px){
+}
